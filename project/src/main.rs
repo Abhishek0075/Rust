@@ -9,5 +9,4 @@ fn main() {
     println!("The sum is {}",sum);
     println!("Sum = {}",sum);//{} is used to print the sum at the position at {}
     print!("{}{}{}",new_float,new_string,_new_string2);
-    asdadad
 }   
